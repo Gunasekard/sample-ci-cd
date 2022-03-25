@@ -57,14 +57,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>ampm-cicd-reference-application/SampleHelloworldApplication.java at main · philips-internal/ampm-cicd-reference-application</title>
+  <title>ampm-cicd-reference-application/HelloWorldController.java at main · philips-internal/ampm-cicd-reference-application</title>
     <meta name="description" content="Ambulatory Platform Module. Contribute to philips-internal/ampm-cicd-reference-application development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/57478301?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="ampm-cicd-reference-application/SampleHelloworldApplication.java at main · philips-internal/ampm-cicd-reference-application" /><meta name="twitter:description" content="Ambulatory Platform Module. Contribute to philips-internal/ampm-cicd-reference-application development by creating an account on GitHub." />
-    <meta property="og:image" content="https://avatars.githubusercontent.com/u/57478301?s=400&amp;v=4" /><meta property="og:image:alt" content="Ambulatory Platform Module. Contribute to philips-internal/ampm-cicd-reference-application development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ampm-cicd-reference-application/SampleHelloworldApplication.java at main · philips-internal/ampm-cicd-reference-application" /><meta property="og:url" content="https://github.com/philips-internal/ampm-cicd-reference-application" /><meta property="og:description" content="Ambulatory Platform Module. Contribute to philips-internal/ampm-cicd-reference-application development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/57478301?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="ampm-cicd-reference-application/HelloWorldController.java at main · philips-internal/ampm-cicd-reference-application" /><meta name="twitter:description" content="Ambulatory Platform Module. Contribute to philips-internal/ampm-cicd-reference-application development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/57478301?s=400&amp;v=4" /><meta property="og:image:alt" content="Ambulatory Platform Module. Contribute to philips-internal/ampm-cicd-reference-application development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ampm-cicd-reference-application/HelloWorldController.java at main · philips-internal/ampm-cicd-reference-application" /><meta property="og:url" content="https://github.com/philips-internal/ampm-cicd-reference-application" /><meta property="og:description" content="Ambulatory Platform Module. Contribute to philips-internal/ampm-cicd-reference-application development by creating an account on GitHub." />
     
 
 
@@ -72,11 +72,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/97869556/ws?session=eyJ2IjoiVjMiLCJ1Ijo5Nzg2OTU1NiwicyI6ODMwOTgyODk4LCJjIjozMDYwMDAzNjY5LCJ0IjoxNjQ4MjA3MDQ0fQ==--242384f11bbc29073725fab2cac41aa5b25b14ba0502c65a75820b62556ca52d" data-refresh-url="/_alive" data-session-id="92738e3ac08a04a3658432bd121d352ab230d57fadf4f6ebc38cd0e118a01e20">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/97869556/ws?session=eyJ2IjoiVjMiLCJ1Ijo5Nzg2OTU1NiwicyI6ODMwOTgyODk4LCJjIjoyMzIwNDgwODkzLCJ0IjoxNjQ4MjA3MDYyfQ==--839905ae7460ee039e6bde8730e65b47b395709179be0c7b27056d46aa3213cd" data-refresh-url="/_alive" data-session-id="92738e3ac08a04a3658432bd121d352ab230d57fadf4f6ebc38cd0e118a01e20">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-dae024e51136.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="1879:596A:E150B2:11DA7F9:623DA4C4" data-pjax-transient="true" /><meta name="html-safe-nonce" content="abf7ade7d1951a13b9c60a99f46a64ff05fcbb3f0298702ba63c103ba0d68a39" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9waGlsaXBzLWludGVybmFsL2FtcG0tY2ljZC1yZWZlcmVuY2UtYXBwbGljYXRpb24vZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IjE4Nzk6NTk2QTpFMTUwQjI6MTFEQTdGOTo2MjNEQTRDNCIsInZpc2l0b3JfaWQiOiIyMDk0MjYxNjEzMjEyMDQ1MjIxIiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="fbfe040f0a272750023de2384b9d74bbba652e17408f97baee8218d902d531f0" data-pjax-transient="true" />
+  <meta name="request-id" content="1879:596A:E1544B:11DAC4D:623DA4D6" data-pjax-transient="true" /><meta name="html-safe-nonce" content="abf7ade7d1951a13b9c60a99f46a64ff05fcbb3f0298702ba63c103ba0d68a39" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9waGlsaXBzLWludGVybmFsL2FtcG0tY2ljZC1yZWZlcmVuY2UtYXBwbGljYXRpb24vZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IjE4Nzk6NTk2QTpFMTU0NEI6MTFEQUM0RDo2MjNEQTRENiIsInZpc2l0b3JfaWQiOiIyMDk0MjYxNjEzMjEyMDQ1MjIxIiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="9a83aaea181c54371a9ccdb62c19b9c20eb6c353efc6741e395980f4b5281f1a" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:458061053" data-pjax-transient>
 
@@ -112,7 +112,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="Yzk2NDkxMzkyZThkMWNlMzg4ZDQxMjBiNWE5YjhiMTI2YmE0YmZhMDc5MjdkY2QzMDFkMDgyZGU1ZDEyNDlkY3x7InJlbW90ZV9hZGRyZXNzIjoiMTY1LjIyNS4xMjIuNzgiLCJyZXF1ZXN0X2lkIjoiMTg3OTo1OTZBOkUxNTBCMjoxMURBN0Y5OjYyM0RBNEM0IiwidGltZXN0YW1wIjoxNjQ4MjA3MDQ0LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="M2Y1MmY1MDAxMjA0YTdiNzg1YjBmNzE5MzhjMDc1OGE4MzgzNjBjOGIzMGNlOThiM2U3ZDlkYmM5ZWJjZjY5Mnx7InJlbW90ZV9hZGRyZXNzIjoiMTY1LjIyNS4xMjIuNzgiLCJyZXF1ZXN0X2lkIjoiMTg3OTo1OTZBOkUxNTQ0QjoxMURBQzREOjYyM0RBNEQ2IiwidGltZXN0YW1wIjoxNjQ4MjA3MDYyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -130,7 +130,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -221,7 +221,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Ie_zg4_E1pvaF-z7cnU4QcU8pSwdbgYA7Eefhm1afXlSH-ijwxiEV7-DM35c16mIdAq6dtsSfcDA_9ArP09oxQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="LZSFVXx2tSBVRz3QTnbVy_YNCfUZjrmy4eZgl5zAp5deZJ51MKrn7DDT4lVg1EQCRzsWr9_ywnLNXi86ztWyKw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -420,7 +420,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Gunasekardaitha&quot;,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="b2bb227f3e74ae810d83dfd3a4339b6b7d45238385ba3c56d12ba26078804541" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Gunasekardaitha&quot;,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="1932afe21168958492e42b3368a79f71daa1866e9414d143e365316db2bdf667" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -428,7 +428,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/97869556?s=40&amp;v=4" width="20" height="20" alt="@Gunasekardaitha" />
       Gunasekardaitha
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YswE9QAQoQntpSusX3fUJrOY-92DuoY3tRzSTybJ16dVnsrGCc6RAZq94YX7WfQ5Qc_pWG5yqEhCvqC-z_zPgg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UFPgmgZS7q7rUL9TUpCyo7Ke_QUbwJzKFO1uaeRPvjBnAS6pD4zeppxIdXr2vpK8QMnvgPYIsrXjTxyYDXqmFQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -467,7 +467,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTc4Njk1NTYiLCJ0IjoxNjQ4MjA3MDQ0fQ==--a963a668ad5da262129865d6436276250a57423d38748ba97b2bd6b84cf2f96c">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTc4Njk1NTYiLCJ0IjoxNjQ4MjA3MDYyfQ==--1938540fe71446647516918a02e5783f4a8e99479cfb77191210e24da2ee2045">
         <a href="/notifications"
           data-turbo=false
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
@@ -604,7 +604,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java
+      data-return-to=/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java
       data-user-id="97869556"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -617,7 +617,7 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="YM2RszGhSYoLTm-gwky2nF7rg_WoLF724M9UThdoeBLpRBXgBtdSY5WqP5UfOfxYJrDWekfOAg4R6ZFkzBQU1g" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="qB32FwQ2mSQUZsQbI7P0_zfQWDO23U2iyL-vvPdHdfYhlHJEM0CCzYqClC7-xr47T4sNvFk_EVo5mWqWLDsZMg" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1508,7 +1508,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="845d3d15080e613573ecae1682ddefe0ee2f646f54f6363e7b553757e5bc812b" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="402d5fa65b9f19788337c0ceae2f971335a7187529f2427f2a7f6947041de6fc" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1560,7 +1560,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xNRedHPT3mWy3AGkZMTSO_gwafo7vahmu9O41Gpm-QSbigL4_ZyJ0r2uBlZtYF6sCDCr0glj1W2y4IYW_lhV3g" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OOqjAxG8EXXyT4iFQjkEzZVLmbo_ync5ezQfGgeRuGxntP-Pn_NGwv09j3dLnYhaZUtbkg0UCjJyByHYk68Utg" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="458061053">
 
@@ -1688,7 +1688,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IMUz6QC6DbtzBcRkzZSkc3FX_hUD3kVaAPqT493QMFJ_m29ljvVaDHx3w5bEMCjkgVc8PTEAOFEJya0hSe6ciA" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="knEZc5sHcv9cEBEGMACfdukfA7Exf1lZEZ37x-DXaoLNL0X_FUglSFNiFvQ5pBPhGR_BmQOhJFIYrsUFdOnGWA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="458061053">
 
@@ -1833,8 +1833,8 @@
   </li>
 
   <li>
-            <form class="btn-with-count" data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wFNEIgfPYY8EbIPG1Q2g56FHVuFO06XyqP7MjiAP2mtV4MMVoCnMh5eV9NbNL9GTI6YDZnuaI6zTlDTcNWH9VQ" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="39a5931f7a6237f4c1cd36260a69faa8dce6cdebea2e17e5feeaa66d44c4e226" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of philips-internal/ampm-cicd-reference-application to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <form class="btn-with-count" data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1bNzGbN1OKRrX-R_KcLdIV6u2JjiTyZvfXC2ceNnADxAAPQuFJOVrPimk28x4KxV3E-NH9cGoDEGGk4j9gknAg" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="15c83b04883e9e60f2c7b07ea3572e0f532858df40c50f21758c4095b4b7dcd1" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of philips-internal/ampm-cicd-reference-application to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="11" data-view-component="true" class="Counter">11</span>
@@ -1861,18 +1861,18 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J8tts9QttN9C69KSAxOpJvsiPhdOb0fSO7Ei_Yt05iqmKmcbzTBBzDFp7yvzbupnTvav72rIS8Q9kdB63idSlA" autocomplete="off" />
-        <input type="hidden" value="Safv-K1NOGeVPbJW6OdPfrC6zakgZnqyX2zKk2EY03jIRuVQtFDNdOa_j-8Ymgw_BW5cUQTBdqRZTDgUNEtnxg" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SABhQgYNnH4Vz9CYTmSr2yzA-I5XdiF12YLKEcwavw3J4WvqHxBpbWZN7SG-GeiamRRpdnPRLWPfojiWmUkLsw" autocomplete="off" />
+        <input type="hidden" value="tUCz9gQSjdLNN8_sUDo8nH0Kf7UY7zYuBKNQqnaUpwg0obleHQ94wb618lWgR3_dyN7uTTxIOjgCg6ItI8cTtg" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="12bea917892d4e679a938ebfe93041ee404eff3bbc9e5b2e891dee0c36603df6" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="053c22e663bda978d1776ee42f372dd04bed778e1c527cf1cc425b4d9179ec70" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CcYr2Dn-7VvkNX7MUdnDdUryhZqHerZr7EGN4NPjJaL5MdmGguBDnV1Uru3MmCgn-XgT_77jQrJvhNq1b6Fpuw" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="roWfiDH9EtuK-tKxlEMF9EcLwZ_isPpvEbY1P9NFmVpecm3WiuO8HTObApAJAu6m9IFX-tspDraSc2JqbwfVQw" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="e7eb213abcb713df58628b9357f168dfe128025d492e2292bd67772aa3408bec" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="ef28e37bd601861b31992f76edbc9215cfaf895c2bb3eeb1578e4025d5e9b976" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1891,13 +1891,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-955955">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-079616">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-955955"
+        id="filter-menu-079616"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2100,7 +2100,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/philips-internal/ampm-cicd-reference-application/blob/22437e45c67c668cb401fc898f62685c0a4df2f0/src/main/java/com/philips/SampleHelloworldApplication.java">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/philips-internal/ampm-cicd-reference-application/blob/22437e45c67c668cb401fc898f62685c0a4df2f0/src/main/java/com/philips/controller/HelloWorldController.java">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2170,10 +2170,10 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9YyBuLmALtBdI3xhbaFaHkRwSC_Obojs5qzpggnAEeX2EQAdHdbgS6xhaFEUsz53jungDrVkGJu5JtkICcFgpw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="U9cbN_FgXwUqyPvOWY3yP_5GqYYWVNfG3i4CGGR17kNQSpqSVTaRntuK7_4gn5ZWNN8Bp21eR7GBpDKSZHSfAQ" />
       <input type="hidden" name="name" value="{{ refName }}">
       <input type="hidden" name="branch"  value="main">
-      <input type="hidden" name="path_binary" value="c3JjL21haW4vamF2YS9jb20vcGhpbGlwcy9TYW1wbGVIZWxsb3dvcmxkQXBwbGljYXRpb24uamF2YQ==">
+      <input type="hidden" name="path_binary" value="c3JjL21haW4vamF2YS9jb20vcGhpbGlwcy9jb250cm9sbGVyL0hlbGxvV29ybGRDb250cm9sbGVyLmphdmE=">
 
       <button class="SelectMenu-item wb-break-word" type="submit" role="menuitem" data-index="{{ index }}">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
@@ -2198,7 +2198,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/philips-internal/ampm-cicd-reference-application/blob/{{ urlEncodedRefName }}/src/main/java/com/philips/SampleHelloworldApplication.java" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/philips-internal/ampm-cicd-reference-application/blob/{{ urlEncodedRefName }}/src/main/java/com/philips/controller/HelloWorldController.java" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2238,7 +2238,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/philips-internal/ampm-cicd-reference-application/blob/{{ urlEncodedRefName }}/src/main/java/com/philips/SampleHelloworldApplication.java" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/philips-internal/ampm-cicd-reference-application/blob/{{ urlEncodedRefName }}/src/main/java/com/philips/controller/HelloWorldController.java" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2269,9 +2269,9 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application"><span>ampm-cicd-reference-application</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src"><span>src</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src/main"><span>main</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src/main/java"><span>java</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src/main/java/com"><span>com</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src/main/java/com/philips"><span>philips</span></a></span><span class="separator">/</span><strong class="final-path">SampleHelloworldApplication.java</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application"><span>ampm-cicd-reference-application</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src"><span>src</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src/main"><span>main</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src/main/java"><span>java</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src/main/java/com"><span>com</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src/main/java/com/philips"><span>philips</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/philips-internal/ampm-cicd-reference-application/tree/main/src/main/java/com/philips/controller"><span>controller</span></a></span><span class="separator">/</span><strong class="final-path">HelloWorldController.java</strong>
       <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:458061053,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="5f82ef276e694dc7864af8564e958c6cb8fb0b9c6d2eca772a9fa7edf0971923" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:458061053,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="a9d9f2f51564e6e1ded7ab5a711632c93cb25103b30dccb83827631bf4507495" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
     <span data-menu-button>Jump to</span>
@@ -2299,17 +2299,17 @@
         </div>
       <div class="SelectMenu-list">
         <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
-            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:458061053,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="5a33f78c35ad4066534c642ce52cd07cc152d743f6e07871afaa707ac9509289" href="/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java#L8">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:458061053,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="ea9eeab1f8ee9e2c17949ac623ec14f7c736f45a358350f01e55f0bd4d1eaa35" href="/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java#L13">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>SampleHelloworldApplication</span>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>HelloWorldController</span>
               <span class="flex-auto d-flex flex-justify-end">Class</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:458061053,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="5a33f78c35ad4066534c642ce52cd07cc152d743f6e07871afaa707ac9509289" href="/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java#L10">
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:458061053,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="ea9eeab1f8ee9e2c17949ac623ec14f7c736f45a358350f01e55f0bd4d1eaa35" href="/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java#L33">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>main</span>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>sayhello</span>
               <span class="flex-auto d-flex flex-justify-end">Method</span>
 </a>        </div>
       </div>
@@ -2333,7 +2333,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="c931e5093c7b6a994dbac9ca0733536b0e7b94ee2cf19c8d2c091af9920fedce" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/philips-internal/ampm-cicd-reference-application/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="2f750f80e9f34f50e000dcc3b8eb7f816de1167f5665e4b7aa14a61f882ff259" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/philips-internal/ampm-cicd-reference-application/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2351,13 +2351,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="src/main/java/com/philips/SampleHelloworldApplication.java" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="src/main/java/com/philips/controller/HelloWorldController.java" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/philips-internal/ampm-cicd-reference-application/blob/22437e45c67c668cb401fc898f62685c0a4df2f0/src/main/java/com/philips/SampleHelloworldApplication.java" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/philips-internal/ampm-cicd-reference-application/blob/22437e45c67c668cb401fc898f62685c0a4df2f0/src/main/java/com/philips/controller/HelloWorldController.java" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2389,7 +2389,7 @@
     <include-fragment src="/philips-internal/ampm-cicd-reference-application/spoofed_commit_check/22437e45c67c668cb401fc898f62685c0a4df2f0" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/philips-internal/ampm-cicd-reference-application/contributors/main/src/main/java/com/philips/SampleHelloworldApplication.java" class="commit-loader">
+  <include-fragment src="/philips-internal/ampm-cicd-reference-application/contributors/main/src/main/java/com/philips/controller/HelloWorldController.java" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2422,17 +2422,17 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      17 lines (11 sloc)
+      37 lines (23 sloc)
       <span class="file-info-divider"></span>
-    425 Bytes
+    1.08 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/philips-internal/ampm-cicd-reference-application/raw/22437e45c67c668cb401fc898f62685c0a4df2f0/src/main/java/com/philips/SampleHelloworldApplication.java" href="/philips-internal/ampm-cicd-reference-application/raw/main/src/main/java/com/philips/SampleHelloworldApplication.java" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-</a>        <a data-permalink-href="/philips-internal/ampm-cicd-reference-application/blame/22437e45c67c668cb401fc898f62685c0a4df2f0/src/main/java/com/philips/SampleHelloworldApplication.java" href="/philips-internal/ampm-cicd-reference-application/blame/main/src/main/java/com/philips/SampleHelloworldApplication.java" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+      <a data-permalink-href="/philips-internal/ampm-cicd-reference-application/raw/22437e45c67c668cb401fc898f62685c0a4df2f0/src/main/java/com/philips/controller/HelloWorldController.java" href="/philips-internal/ampm-cicd-reference-application/raw/main/src/main/java/com/philips/controller/HelloWorldController.java" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+</a>        <a data-permalink-href="/philips-internal/ampm-cicd-reference-application/blame/22437e45c67c668cb401fc898f62685c0a4df2f0/src/main/java/com/philips/controller/HelloWorldController.java" href="/philips-internal/ampm-cicd-reference-application/blame/main/src/main/java/com/philips/controller/HelloWorldController.java" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
 </a>    </div>
 
     <div>
@@ -2446,11 +2446,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/philips-internal/ampm-cicd-reference-application/raw/main/src/main/java/com/philips/SampleHelloworldApplication.java" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/philips-internal/ampm-cicd-reference-application/raw/main/src/main/java/com/philips/controller/HelloWorldController.java" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="f7bbfcbc58b79cb22aacb58829c077d782c6f366ce32bd4610b1fdf0318fc6f5" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="4d4d49bfa2dd29481d0f02d2e5ac6a4348c6ee996c94843bd82deb0b6b38fb18" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2473,7 +2473,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/edit/main/src/main/java/com/philips/SampleHelloworldApplication.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="o9tIJpnYTSAmfufTeOmcdRNP3K_NkaqLVhv_csN3uRhudNugGzOi1Cddi5CYipCXU1AQ6nobwleIncA-8nMqzQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/edit/main/src/main/java/com/philips/controller/HelloWorldController.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bWSxCDxF8dKk_Il7XcCmdaKD_h3Q9QP48J2EFDsILRViCBKi4B04HCgDIfY_7-8rgWWLJ_5R-sco1WgY9wFzJw" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2481,7 +2481,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/delete/main/src/main/java/com/philips/SampleHelloworldApplication.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-zuGZv-gPb28Seyh0DMBm_hgH5NEoiVVWsDiQd2B8doM1PZZN23PwUazDelSk57vu-JIaaw-47UsostY4UvsfQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/philips-internal/ampm-cicd-reference-application/delete/main/src/main/java/com/philips/controller/HelloWorldController.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BMhjmQm8V9CheX78n8S2qndmueH5LmTn3Pe3xpfDXQZrQi89QoQX-_VEv_A05Ft1Tfe89jfQRo4mItBL3OELhg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2509,15 +2509,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/philips-internal/ampm-cicd-reference-application/raw/main/src/main/java/com/philips/SampleHelloworldApplication.java">
+            <a class="dropdown-item" href="/philips-internal/ampm-cicd-reference-application/raw/main/src/main/java/com/philips/controller/HelloWorldController.java">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/philips-internal/ampm-cicd-reference-application/raw/main/src/main/java/com/philips/SampleHelloworldApplication.java" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/philips-internal/ampm-cicd-reference-application/raw/main/src/main/java/com/philips/controller/HelloWorldController.java" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/SampleHelloworldApplication.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="f7bbfcbc58b79cb22aacb58829c077d782c6f366ce32bd4610b1fdf0318fc6f5">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:458061053,&quot;originating_url&quot;:&quot;https://github.com/philips-internal/ampm-cicd-reference-application/blob/main/src/main/java/com/philips/controller/HelloWorldController.java&quot;,&quot;user_id&quot;:97869556}}" data-hydro-click-hmac="4d4d49bfa2dd29481d0f02d2e5ac6a4348c6ee996c94843bd82deb0b6b38fb18">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2540,17 +2540,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/philips-internal/ampm-cicd-reference-application/blame/main/src/main/java/com/philips/SampleHelloworldApplication.java">
+              <a class="dropdown-item" href="/philips-internal/ampm-cicd-reference-application/blame/main/src/main/java/com/philips/controller/HelloWorldController.java">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/philips-internal/ampm-cicd-reference-application/edit/main/src/main/java/com/philips/SampleHelloworldApplication.java">Edit file</a>
+                <a class="dropdown-item" href="/philips-internal/ampm-cicd-reference-application/edit/main/src/main/java/com/philips/controller/HelloWorldController.java">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/philips-internal/ampm-cicd-reference-application/delete/main/src/main/java/com/philips/SampleHelloworldApplication.java">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/philips-internal/ampm-cicd-reference-application/delete/main/src/main/java/com/philips/controller/HelloWorldController.java">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2587,10 +2587,10 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Java" data-tagsearch-path="src/main/java/com/philips/SampleHelloworldApplication.java">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Java" data-tagsearch-path="src/main/java/com/philips/controller/HelloWorldController.java">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">package</span> <span class="pl-smi">com.philips</span>;</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">package</span> <span class="pl-smi">com.philips.controller</span>;</td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
@@ -2599,16 +2599,15 @@
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> <span class="pl-smi">org.springframework.boot.SpringApplication</span>;</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> <span class="pl-smi">org.springframework.web.bind.annotation.GetMapping</span>;</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> <span class="pl-smi">org.springframework.boot.autoconfigure.SpringBootApplication</span>;</td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> <span class="pl-smi">org.springframework.web.bind.annotation.PathVariable</span>;</td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> <span class="pl-smi">org.springframework.web.bind.annotation.RestController</span>;</td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
@@ -2617,36 +2616,37 @@
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-k">@SpringBootApplication</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> <span class="pl-smi">io.swagger.annotations.ApiOperation</span>;</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">SampleHelloworldApplication</span> {</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> <span class="pl-smi">io.swagger.annotations.ApiParam</span>;</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> <span class="pl-smi">io.swagger.annotations.ApiResponse</span>;</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">public</span> <span class="pl-k">static</span> <span class="pl-k">void</span> <span class="pl-en">main</span>(<span class="pl-k">String</span>[] <span class="pl-v">args</span>) {</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> <span class="pl-smi">io.swagger.annotations.ApiResponses</span>;</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">		<span class="pl-smi">SpringApplication</span><span class="pl-k">.</span>run(<span class="pl-smi">SampleHelloworldApplication</span><span class="pl-k">.</span>class, args);</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">		<span class="pl-smi">System</span><span class="pl-k">.</span>out<span class="pl-k">.</span>println(<span class="pl-s"><span class="pl-pds">&quot;</span>welcome to helloworld!!!!<span class="pl-pds">&quot;</span></span>);</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-k">@RestController</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">		<span class="pl-smi">System</span><span class="pl-k">.</span>out<span class="pl-k">.</span>println(<span class="pl-s"><span class="pl-pds">&quot;</span>hello Philips team!!<span class="pl-pds">&quot;</span></span>);</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">HelloWorldController</span> {</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">	} </td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
@@ -2654,12 +2654,92 @@
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">	  <span class="pl-k">@ApiOperation</span>(<span class="pl-c1">value</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>, <span class="pl-c1">nickname</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>sayhello<span class="pl-pds">&quot;</span></span>, <span class="pl-c1">notes</span> <span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>get the welcome ByPassing Name<span class="pl-pds">&quot;</span></span>)</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">	  </td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">	  <span class="pl-k">@ApiResponses</span>(<span class="pl-c1">value</span> <span class="pl-k">=</span> {</td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">	  </td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">	  <span class="pl-k">@ApiResponse</span>(<span class="pl-c1">code</span> <span class="pl-k">=</span> <span class="pl-c1">200</span>, <span class="pl-c1">message</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Ok<span class="pl-pds">&quot;</span></span>),</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">	  </td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">	  <span class="pl-k">@ApiResponse</span>(<span class="pl-c1">code</span> <span class="pl-k">=</span> <span class="pl-c1">400</span>, <span class="pl-c1">message</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Bad Request<span class="pl-pds">&quot;</span></span>),</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">	  </td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">	  <span class="pl-k">@ApiResponse</span>(<span class="pl-c1">code</span> <span class="pl-k">=</span> <span class="pl-c1">401</span>, <span class="pl-c1">message</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Not Authorized<span class="pl-pds">&quot;</span></span>),</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">	  </td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">	  <span class="pl-k">@ApiResponse</span>(<span class="pl-c1">code</span> <span class="pl-k">=</span> <span class="pl-c1">403</span>, <span class="pl-c1">message</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Forbidden<span class="pl-pds">&quot;</span></span>),</td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">	  </td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">	  <span class="pl-k">@ApiResponse</span>(<span class="pl-c1">code</span> <span class="pl-k">=</span> <span class="pl-c1">404</span>, <span class="pl-c1">message</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Not Found<span class="pl-pds">&quot;</span></span>),</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">	  </td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">	  <span class="pl-k">@ApiResponse</span>(<span class="pl-c1">code</span> <span class="pl-k">=</span> <span class="pl-c1">500</span>, <span class="pl-c1">message</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Unexpected Error<span class="pl-pds">&quot;</span></span>) })</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">	  </td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">	  <span class="pl-k">@GetMapping</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>/hello/{name}<span class="pl-pds">&quot;</span></span>) </td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">	  <span class="pl-k">public</span> <span class="pl-smi">String</span> <span class="pl-en">sayhello</span>(<span class="pl-k">@ApiParam</span>(<span class="pl-c1">value</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>get welcome msg with userName<span class="pl-pds">&quot;</span></span> ,<span class="pl-c1">required</span> <span class="pl-k">=</span> <span class="pl-c1">true</span>)<span class="pl-k">@PathVariable</span> <span class="pl-smi">String</span> <span class="pl-v">name</span>) {</td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">		  <span class="pl-k">return</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Welcome <span class="pl-pds">&quot;</span></span><span class="pl-k">+</span>name;</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">		  }</td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
   </table>
 </div>
@@ -2685,7 +2765,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/philips-internal/ampm-cicd-reference-application/blame/22437e45c67c668cb401fc898f62685c0a4df2f0/src/main/java/com/philips/SampleHelloworldApplication.java">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/philips-internal/ampm-cicd-reference-application/blame/22437e45c67c668cb401fc898f62685c0a4df2f0/src/main/java/com/philips/controller/HelloWorldController.java">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/philips-internal/ampm-cicd-reference-application/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
