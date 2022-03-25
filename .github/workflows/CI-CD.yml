@@ -1,0 +1,34 @@
+name: CI Workflow
+
+on:
+  workflow_dispatch:
+  push:
+    branches: 
+      - branch** 
+      - main
+      - develop
+      
+  pull_request:
+    branches:
+     - develop
+     
+jobs:
+        
+  CI-Build:
+    uses: Gunasekard/reusable-templates/.github/workflows/Build.yml@main
+       
+  cd-develop-workflow:
+    needs: [CI-Build]
+    if: github.event.ref == 'refs/heads/develop'
+    uses: Gunasekard/reusable-templates/.github/workflows/cd.yml@main
+    with:
+      ENVIRONMENT: develop
+    secrets:
+      org: ${{ secrets.CF_ORGANISATION }}
+      space: ${{ secrets.CF_SPACE }}
+      username: ${{ secrets.CF_USERNAME }}
+      password: ${{ secrets.CF_PASSWORD }}
+      JF_API:  ${{ secrets.JF_API }}
+      
+    
+      
