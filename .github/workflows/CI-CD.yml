@@ -26,7 +26,6 @@ jobs:
     #secrets:
       #org: ${{ secrets.CF_ORGANISATION }}
       #space: ${{ secrets.CF_SPACE }}
-      
       #username: ${{ secrets.CF_USERNAME }}
       #password: ${{ secrets.CF_PASSWORD }}
       #JF_API:  ${{ secrets.JF_API }}
