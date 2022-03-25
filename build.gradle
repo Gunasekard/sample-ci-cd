@@ -1,7 +1,7 @@
 buildscript {
     repositories {
         maven {
-            url 'https://artifactory-ehv.ta.philips.com/artifactory/cc-ampm-dev-gradle'
+            url 'https://gunasekard.jfrog.io/artifactory/sample_artifact-gradle-dev'
         }
     }
     dependencies {
@@ -46,7 +46,7 @@ artifactory {
     contextUrl = "${artifactory_contextUrl}"   //The base Artifactory URL if not overridden by the publisher/resolver
     publish {
         repository {
-            repoKey = 'cc-ampm-dev-gradle'
+            repoKey = 'sample_artifact-gradle-dev'
             username = "${artifactory_user}"
             password = "${artifactory_password}"
             maven = true
@@ -55,7 +55,7 @@ artifactory {
     }
     resolve {
         repository {
-            repoKey = 'platform-pkgs-cloud-release'
+            repoKey = 'sample_artifact-gradle-dev'
             username = "${artifactory_user}"
             password = "${artifactory_password}"
             maven = true
