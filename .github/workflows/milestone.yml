@@ -1,6 +1,7 @@
 
 # Trigger the workflow on milestone events
-on: 
+on:
+  push:
   milestone:
     types: [closed]
   workflow_dispatch:
